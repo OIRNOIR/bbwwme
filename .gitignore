@@ -105,3 +105,6 @@ dist
 
 .parcel-cache
 /bundle
+
+#MacOS
+.DS_Store
