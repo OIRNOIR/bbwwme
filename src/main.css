@@ -3,7 +3,9 @@ div[style*="aspect-ratio"] {
   width: auto !important;
 }
 
-video[style*="width"]:not(#gif-picker-tab-panel [style*="width: auto"]) {
+video[style*="width"]:not(#gif-picker-tab-panel video):not([style*="width: auto"]):not(
+    div.media-engine-video video
+  ) {
   width: auto !important;
   height: auto !important;
   display: inline-block !important;
