@@ -1,25 +1,25 @@
 div[style*="aspect-ratio"] {
-	aspect-ratio: unset !important;
-	width: auto !important;
+  aspect-ratio: unset !important;
+  width: auto !important;
 }
 
 video[style*="width"]:not(#gif-picker-tab-panel [style*="width: auto"]) {
-	width: auto !important;
-	height: auto !important;
-	display: inline-block !important;
+  width: auto !important;
+  height: auto !important;
+  display: inline-block !important;
 }
 
 [class*="imageWrapper-"] > div {
-	background-color: transparent !important;
-	display: inline-flex !important;
+  background-color: transparent !important;
+  display: inline-flex !important;
 }
 
 [class*="imageWrapper-"] {
-	aspect-ratio: unset !important;
-	display: inline-flex !important;
-	width: unset !important;
+  aspect-ratio: unset !important;
+  display: inline-flex !important;
+  width: unset !important;
 }
 
 [class*="message-"]:not([class*="groupStart-"]) {
-	min-height: 0 !important;
+  min-height: 0 !important;
 }
