@@ -1,0 +1,18 @@
+{
+  "id": "dev.oirnoir.bbwwme",
+  "name": "Bring Back WackyWebM Epicness",
+  "description": "Restores the webm glitch Discord had in July 2022.",
+  "author": {
+    "name": "oirnoir",
+    "discordID": "720842469024989195",
+    "github": "oirnoir"
+  },
+  "version": "1.0.0",
+  "updater": {
+    "type": "github",
+    "id": "oirnoir/bbwwme"
+  },
+  "license": "MIT",
+  "type": "replugged-theme",
+  "main": "src/main.css"
+}
