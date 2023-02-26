@@ -6,7 +6,6 @@ div[style*="aspect-ratio"] {
 video[style*="width"]:not(#gif-picker-tab-panel video):not([style*="width: auto"]):not(div.media-engine-video video) {
 	width: unset !important;
 	height: unset !important;
-	display: inline-block !important;
 	max-width: 100%;
 	max-height: 100%;
 }
