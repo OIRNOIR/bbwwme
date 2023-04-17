@@ -1,4 +1,4 @@
-div[style*="aspect-ratio"]:not(div[class*="embed-"] div) {
+div[style*="aspect-ratio"]:not([class*="embed-"] div) {
 	aspect-ratio: unset !important;
 	width: auto !important;
 }
