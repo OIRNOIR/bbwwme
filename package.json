@@ -1,6 +1,6 @@
 {
   "name": "bbwwme",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Bring Back WackyWebM Epicness",
   "engines": {
     "node": ">=14.0.0"
@@ -20,6 +20,6 @@
     "@parcel/core": "^2.8.3",
     "@types/node": "^18.15.11",
     "prettier": "^2.8.7",
-    "replugged": "^4.2.6"
+    "replugged": "^4.3.0"
   }
 }
