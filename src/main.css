@@ -6,8 +6,8 @@ div[style*="aspect-ratio"]:not([class*="embed-"] div) {
 video[style*="width"]:not(#gif-picker-tab-panel video):not([style*="width: auto"]):not(div.media-engine-video video) {
 	width: unset !important;
 	height: unset !important;
-	max-width: 100%;
-	max-height: 100%;
+	max-width: 100% !important;
+	max-height: 100% !important;
 }
 
 [class*="imageWrapper-"]:has(video[style*="width"]:not(#gif-picker-tab-panel video):not([style*="width: auto"]):not(div.media-engine-video video)) > div {
