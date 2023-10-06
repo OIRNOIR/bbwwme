@@ -1,6 +1,6 @@
 {
   "name": "bbwwme",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Bring Back WackyWebM Epicness",
   "engines": {
     "node": ">=14.0.0"
