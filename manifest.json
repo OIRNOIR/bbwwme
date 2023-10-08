@@ -16,5 +16,5 @@
   "type": "replugged-theme",
   "main": "src/main.css",
 	"source": "https://github.com/OIRNOIR/bbwwme",
-	"images": ["https://github.com/OIRNOIR/bbwwme/blob/master/assets/enabledExample.gif?raw=true", "https://github.com/OIRNOIR/bbwwme/blob/master/assets/disabledExample.gif?raw=true"]
+	"images": ["https://raw.githubusercontent.com/OIRNOIR/bbwwme/8ed6bd3fe53f0a2a022c09f4f256994a1ba3f53c/assets/enabledExample.gif", "https://raw.githubusercontent.com/OIRNOIR/bbwwme/8ed6bd3fe53f0a2a022c09f4f256994a1ba3f53c/assets/disabledExample.gif"]
 }
