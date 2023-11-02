@@ -1,6 +1,6 @@
 {
   "name": "bbwwme",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Bring Back WackyWebM Epicness",
   "engines": {
     "node": ">=14.0.0"
@@ -16,10 +16,10 @@
   "author": "OIRNOIR",
   "license": "GPL",
   "devDependencies": {
-    "@parcel/config-default": "^2.9.3",
-    "@parcel/core": "^2.9.3",
-    "@types/node": "^18.18.4",
+    "@parcel/config-default": "^2.10.2",
+    "@parcel/core": "^2.10.2",
+    "@types/node": "^18.18.8",
     "prettier": "^3.0.3",
-    "replugged": "^4.6.5"
+    "replugged": "^4.7.5"
   }
 }

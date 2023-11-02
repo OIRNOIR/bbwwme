@@ -1,4 +1,4 @@
-div[style*="aspect-ratio"]:not([class*="embed-"] div) {
+div[style*="aspect-ratio"]:not([class*="embed_"] div) {
 	aspect-ratio: unset !important;
 	width: auto !important;
 }
@@ -10,17 +10,17 @@ video[style*="width"]:not(#gif-picker-tab-panel video):not([style*="width: auto"
 	max-height: 100% !important;
 }
 
-[class*="imageWrapper-"]:has(video[style*="width"]:not(#gif-picker-tab-panel video):not([style*="width: auto"]):not(div.media-engine-video video)) > div {
+[class*="imageWrapper_"]:has(video[style*="width"]:not(#gif-picker-tab-panel video):not([style*="width: auto"]):not(div.media-engine-video video)) > div {
 	background-color: transparent !important;
 	display: inline-flex !important;
 }
 
-[class*="imageWrapper-"]:has(video[style*="width"]:not(#gif-picker-tab-panel video):not([style*="width: auto"]):not(div.media-engine-video video)) {
+[class*="imageWrapper_"]:has(video[style*="width"]:not(#gif-picker-tab-panel video):not([style*="width: auto"]):not(div.media-engine-video video)) {
 	aspect-ratio: unset !important;
 	display: inline-flex !important;
 	width: unset !important;
 }
 
-[class*="message-"]:not([class*="groupStart-"]) {
+[class*="message_"]:not([class*="groupStart_"]) {
 	min-height: 0 !important;
 }
