@@ -16,10 +16,10 @@
   "author": "OIRNOIR",
   "license": "GPL",
   "devDependencies": {
-    "@parcel/config-default": "^2.10.2",
-    "@parcel/core": "^2.10.2",
-    "@types/node": "^18.18.8",
-    "prettier": "^3.0.3",
-    "replugged": "^4.7.5"
+    "@parcel/config-default": "^2.10.3",
+    "@parcel/core": "^2.10.3",
+    "@types/node": "^20.10.5",
+    "prettier": "^3.1.1",
+    "replugged": "^4.7.7"
   }
 }
