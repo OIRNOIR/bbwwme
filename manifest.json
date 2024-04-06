@@ -1,7 +1,7 @@
 {
   "id": "dev.oirnoir.bbwwme",
   "name": "Bring Back WackyWebM Epicness",
-  "description": "Restores the webm glitch Discord had in July 2022.",
+  "description": "Restores the WebM glitch Discord had in July 2022.",
   "author": {
     "name": "OIRNOIR",
     "discordID": "720842469024989195",
@@ -12,9 +12,12 @@
     "type": "store",
     "id": "dev.oirnoir.bbwwme"
   },
-  "license": "MIT",
+  "license": "GPL-3.0",
   "type": "replugged-theme",
   "main": "src/main.css",
 	"source": "https://github.com/OIRNOIR/bbwwme",
-	"images": ["https://raw.githubusercontent.com/OIRNOIR/bbwwme/8ed6bd3fe53f0a2a022c09f4f256994a1ba3f53c/assets/enabledExample.gif", "https://raw.githubusercontent.com/OIRNOIR/bbwwme/8ed6bd3fe53f0a2a022c09f4f256994a1ba3f53c/assets/disabledExample.gif"]
+	"images": [
+    "https://github.com/OIRNOIR/bbwwme/blob/master/assets/enabledExample.avif?raw=true",
+    "https://github.com/OIRNOIR/bbwwme/blob/master/assets/disabledExample.avif?raw=true"
+  ]
 }
