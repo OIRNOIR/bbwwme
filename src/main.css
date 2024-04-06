@@ -21,6 +21,7 @@ video[style*="width"]:not(#gif-picker-tab-panel video):not([style*="width: auto"
 [class*="imageWrapper_"]:has(video[style*="width"]:not(#gif-picker-tab-panel video):not([style*="width: auto"]):not(div.media-engine-video video)) > div {
 	background-color: transparent !important;
 	display: inline-flex !important;
+	aspect-ratio: unset !important;
 }
 
 [class*="imageWrapper_"]:has(video[style*="width"]:not(#gif-picker-tab-panel video):not([style*="width: auto"]):not(div.media-engine-video video)) {
