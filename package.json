@@ -1,6 +1,6 @@
 {
   "name": "bbwwme",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Bring Back WackyWebM Epicness",
   "engines": {
     "node": ">=14.0.0"
@@ -11,14 +11,14 @@
     "watch": "replugged build theme --watch",
     "bundle": "replugged bundle theme",
     "release": "replugged release",
-    "lint": "prettier ./src --check",
-    "lint:fix": "prettier ./src --write"
+    "lint": "biome check . --apply"
   },
   "keywords": [],
   "author": "OIRNOIR",
   "license": "GPL-3.0",
   "devDependencies": {
-    "prettier": "^3.2.5",
+    "@biomejs/biome": "^1.6.4",
     "replugged": "^4.7.9"
-  }
+  },
+  "packageManager": "pnpm@8.15.6+sha256.01c01eeb990e379b31ef19c03e9d06a14afa5250b82e81303f88721c99ff2e6f"
 }

@@ -1,23 +1,23 @@
 {
-  "id": "dev.oirnoir.bbwwme",
-  "name": "Bring Back WackyWebM Epicness",
-  "description": "Restores the WebM glitch Discord had in July 2022.",
-  "author": {
-    "name": "OIRNOIR",
-    "discordID": "720842469024989195",
-    "github": "oirnoir"
-  },
-  "version": "1.0.11",
-  "updater": {
-    "type": "store",
-    "id": "dev.oirnoir.bbwwme"
-  },
-  "license": "GPL-3.0",
-  "type": "replugged-theme",
-  "main": "src/main.css",
+	"id": "dev.oirnoir.bbwwme",
+	"name": "Bring Back WackyWebM Epicness",
+	"description": "Restores the WebM glitch Discord had in July 2022.",
+	"author": {
+		"name": "OIRNOIR",
+		"discordID": "720842469024989195",
+		"github": "oirnoir"
+	},
+	"version": "1.0.12",
+	"updater": {
+		"type": "store",
+		"id": "dev.oirnoir.bbwwme"
+	},
+	"license": "GPL-3.0",
+	"type": "replugged-theme",
+	"main": "src/main.css",
 	"source": "https://github.com/OIRNOIR/bbwwme",
 	"images": [
-    "https://github.com/OIRNOIR/bbwwme/blob/master/assets/enabledExample.avif?raw=true",
-    "https://github.com/OIRNOIR/bbwwme/blob/master/assets/disabledExample.avif?raw=true"
-  ]
+		"https://github.com/OIRNOIR/bbwwme/blob/master/assets/enabledExample.avif?raw=true",
+		"https://github.com/OIRNOIR/bbwwme/blob/master/assets/disabledExample.avif?raw=true"
+	]
 }
