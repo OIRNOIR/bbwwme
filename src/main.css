@@ -1,12 +1,12 @@
 /**
  * @name Bring Back WackyWebM Epicness
  * @author OIRNOIR
- * @version 1.0.11
+ * @version 1.0.13
  * @description Restores the webm glitch Discord had in July 2022.
  * @source https://github.com/OIRNOIR/bbwwme
  */
 
-div[style*="aspect-ratio"]:not([class*="embed_"] div) {
+div[style*="aspect-ratio"]:not([class*="embed_"] div):not([class*="callContainer_"] div) {
 	aspect-ratio: unset !important;
 	width: auto !important;
 }
