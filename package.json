@@ -11,13 +11,14 @@
     "watch": "replugged build theme --watch",
     "bundle": "replugged bundle theme",
     "release": "replugged release",
-    "lint": "biome check . --apply"
+    "lint": "biome check . --write"
   },
   "keywords": [],
   "author": "OIRNOIR",
   "license": "GPL-3.0",
   "devDependencies": {
-    "@biomejs/biome": "^1.6.4",
-    "replugged": "^4.7.9"
-  }
+    "@biomejs/biome": "^1.8.1",
+    "replugged": "^4.7.13"
+  },
+  "packageManager": "pnpm@9.3.0+sha512.ee7b93e0c2bd11409c6424f92b866f31d3ea1bef5fbe47d3c7500cdc3c9668833d2e55681ad66df5b640c61fa9dc25d546efa54d76d7f8bf54b13614ac293631"
 }
